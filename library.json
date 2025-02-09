@@ -1,0 +1,21 @@
+{
+    "name": "MicroROSManager",
+    "version": "1.0.0",
+    "description": "A reusable micro-ROS manager library that handles WiFi, agent connection, publishers, and subscribers for ESP32 projects.",
+    "keywords": "micro-ros, manager, ESP32, Arduino, wifi",
+    "authors":
+    [
+      {
+        "name": "Luke Howard",
+        "email": "ekulhoward@hotmail.com"
+      }
+    ],
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/gldkhoward/MicroRosManager.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
+  
